@@ -1,0 +1,3 @@
+Sum of integers: 126
+Char Value: R
+String sentence: Computers!
